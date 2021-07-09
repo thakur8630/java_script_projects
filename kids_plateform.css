@@ -1,0 +1,149 @@
+.main-container{
+    height: 100vh;
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: beige;
+    margin-top: -38px;
+
+    
+}
+.main-container2{
+    height: 100vh;
+    background:url("images\ \(18\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-container{
+   display: inline-flex;
+   margin: 28px 10px 0px 20px;
+   color: snow;
+  
+}
+.btn-container2{
+    display: inline-flex;
+    margin: 49px 22px 1px 95px;
+    color: snow;
+
+}
+.btn-cover2{
+    
+}
+.data{
+    border: 5px solid black;
+    height: 55vh;
+    width: 50vh;
+    margin: 60px 0px 0px 550px;
+    border-color: rgb(7, 172, 7);
+    background-color: linen;
+    border-top-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+}
+.data2{
+    border: 5px solid black;
+    height: 55vh;
+    width: 50vh;
+    margin: 60px 0px 0px 550px;
+    border-color: rgb(7, 172, 7);
+    background-color: linen;
+    border-top-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+
+}
+    .data p{
+        text-align: center;
+        font-size: larger;
+        font-style: oblique;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: red;
+        margin: 30px;
+    }
+    .data2 h6{
+        text-align: center;
+        font-size: x-large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        margin: 15px;
+    }
+    .data h6{
+        text-align: center;
+        font-size: x-large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        margin: 15px;
+    }
+    .data2 p{
+        text-align: center;
+        font-size: larger;
+        font-style: oblique;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: red;
+        margin: 30px;
+
+    }
+    .hada{
+        text-align: center;
+        margin: 10px 0px 0px 35px;
+        
+    }
+.heading{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: black;
+    
+    
+}
+.heading2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: black;
+    
+}
+#para{
+    text-align: center;
+}
+.heading h3{
+    color: black
+}
+
+
+button{
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-style: double;
+    background: border-box;
+    background-color: black;
+    color:snow;
+    border-color: magenta;
+    height: 54px;
+    width: 148px;
+}
+button:hover{
+    color: aqua ;
+}
+
+.print {
+    text-align: center;
+    margin-top: 12px;
+    
+}
+
+.print button{
+    background-color: midnightblue;
+    color: blanchedalmond;
+    font-size: larger;
+    border-color: cyan;
+}
+.print2{
+    text-align: center;
+    margin-top: 12px;
+
+}
+.print2 button{
+    background-color: midnightblue;
+    color: blanchedalmond;
+    font-size: larger;
+    border-color: cyan;
+}

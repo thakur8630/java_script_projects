@@ -1,0 +1,63 @@
+.main-container{
+    height: 100vh;
+   background: url("images\ \(16\).jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: -18px;
+}
+.main-heading{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    height: 6vh;
+    margin: -8px;
+
+
+}
+.main-heading h1{
+    font-family: cursive;
+    font-size: x-large;
+    font-style: revert;
+    color: aliceblue;
+}
+.intro{
+    margin-left: 260px;
+}
+.intro h1{
+    font-size: revert;
+    font-style: italic;
+    font-family: cursive;
+    color:rgb(158, 8, 21);
+}
+
+.intro h2{
+    font-size: larger;
+    font-style: italic;
+    font-family: cursive;
+    color: rgb(158, 8, 21);
+}
+.intro p{
+    font-size: x-large;
+    font-style: italic;
+    font-family: cursive;
+    color: black;
+
+}
+.btn{
+    text-align: center;
+}
+.btn button{
+    border-radius: 32px;
+    height: 6vh;
+    width: 20vh;
+    border-color: snow;
+    background-color: black;
+}
+.btn a{
+color: snow;
+}
+
+.btn a:hover{
+    color: springgreen;
+    
+}
